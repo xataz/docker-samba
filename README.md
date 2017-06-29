@@ -1,5 +1,9 @@
 ![# Samba](http://wiki.univention.de/images/6/6d/Logo_Samba.png)
 
+[![Build Status](https://drone.xataz.net/api/badges/xataz/docker-samba/status.svg)](https://drone.xataz.net/xataz/docker-samba)
+[![](https://images.microbadger.com/badges/image/xataz/samba.svg)](https://microbadger.com/images/xataz/samba "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/xataz/samba.svg)](https://microbadger.com/images/xataz/samba "Get your own version badge on microbadger.com")
+
 > This image is build and push with [drone.io](https://github.com/drone/drone), a circle-ci like self-hosted.
 > If you don't trust, you can build yourself.
 
